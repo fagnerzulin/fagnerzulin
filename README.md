@@ -1,8 +1,8 @@
 ### Eae galera 👋
 
-Me chamo Fagner, sou de Londrina - Paraná. Sou formado em Direito 👨‍⚖️, atualmente estou fazendo análise e desenvolvimento de sistemas 👨‍💻 e faz dois anos que estou desbravando o mundo dev .
+Me chamo Fagner, sou de Londrina - Paraná. Sou formado em Direito 👨‍⚖️, atualmente faço análise e desenvolvimento de sistemas 👨‍💻 e faz dois anos que estou desbravando o mundo dev.
 
-Trabalho com suporte técnico, mas sou apaixonado por desenvolvimento e tenho estudo muito 📖💡.
+Trabalho com suporte técnico, mas sou apaixonado por desenvolvimento e tenho estudado muito 📖💡.
 
 No momento tenho focado em desenvolvimento web com a stack JavaScript, pela qual estou a cada dia mais apaixonado 🥰. 
 
