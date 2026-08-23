@@ -1,14 +1,35 @@
-### Eae galera 👋
+# Olá, eu sou o Fagner Zulin! 👋
 
-Me chamo Fagner, sou de Londrina - Paraná. Sou formado em Direito 👨‍⚖️, em Análise e Desenvolvimento de Sistemas 👨‍💻 e há quase três anos que estou desbravando o mundo dev.
+Engenheiro de Software Backend | Python, ElasticSearch & AWS | Software Developer III @ Grupo Boticário
 
-Trabalho com suporte técnico, mas sou apaixonado por desenvolvimento e tenho estudado muito 📖💡.
+---
 
-Atualmente estou fazendo um Curso de Desenvolvimento Web Full Stack na Labenu 🧡 e sou mentorando no programa de mentorias do projeto Desenvolve do Grupo Boticário. Tem sido uma oportunidade incrível, ter contato diario com projetos desafiadores e com profissionais com anos de experiência é, sem dúvidas alguma, uma experiência enriquecedora. 
+### 💻 Sobre mim
 
-No curso, vemos várias tecnologias relacionadas ao desenvolvimento web, tendo foco em: React + Javascript no frontend e Node + Typescript no backend. Se tiver interesse de ver a ementa do curso e conhecer as outras tecnolgias que estou aprendendo [clique aqui](https://drive.google.com/file/d/1Z02L8X3cprASAHp6aPX3kw7mrYQ3YKVS/view). E para ver o respositório com as atividades e projetos feitos durante o curso [clique aqui](https://github.com/future4code/Fagner-Zulin).
+- 🚀 Atualmente atuo como **Software Developer III no Grupo Boticário**, trabalhando no ecossistema crítico de busca de produtos dos canais digitais (suportando **+50k requisições/minuto**).
+- 🐍 Especialista na construção de microsserviços e APIs de alta disponibilidade utilizando **Python** como stack principal e **ElasticSearch** para motores de busca de alta performance.
+- 🏗️ Participei ativamente da modernização arquitetural que reescreveu do zero o sistema legado de busca em Java para uma solução desacoplada, escalável e estável em Python.
+- 🎓 Bacharel em Direito, Tecnólogo em ADS, com **MBA em Engenharia de Software (UTFPR)** e **MBA em Governança de TI**.
+- 🌱 Em constante aprendizado sobre sistemas distribuídos, arquitetura de alta escala e engenharia de software em nuvem.
 
-📫 E caso queira me conhecer:
+---
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagner_zulin)](https://twitter.com/fagner_zulin)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagner-zulin/)](https://www.linkedin.com/in/fagner-zulin/)
+### 🛠️ Tech Stack & Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+- **Linguagens Principais:** Python, JavaScript / Node.js
+- **Busca & Dados:** ElasticSearch, PostgreSQL, MySQL
+- **Cloud & Infraestrutura:** AWS (Serviços Gerenciados), Microsserviços, Docker
+
+---
+
+### 📬 Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fagner-zulin/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fagner_zulin11@gmail.com)
