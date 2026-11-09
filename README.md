@@ -1,6 +1,6 @@
 # Olá, eu sou o Fagner Zulin! 👋
 
-Engenheiro de Software Backend | Python, ElasticSearch & AWS | Software Developer III @ Grupo Boticário
+Engenheiro de Software Backend | Python, ElasticSearch & AWS | Software Specialist I @ Grupo Boticário
 
 ---
 
